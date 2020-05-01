@@ -1,1 +1,1 @@
-# ajax_oryzasatifha
+# Tutorial ajax by Oryza Satifha
